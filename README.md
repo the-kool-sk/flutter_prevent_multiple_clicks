@@ -1,0 +1,1 @@
+# flutter_prevent_multiple_clicks
